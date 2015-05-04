@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /// <reference path="typings/node/node.d.ts"/>
 var glob = require('glob');
 var child_process = require('child_process');
