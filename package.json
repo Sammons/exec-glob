@@ -1,0 +1,14 @@
+{
+  "name": "exec-glob",
+  "version": "1.0.0",
+  "description": "CL Utility to execute command against glob",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Sammons",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^5.0.5"
+  }
+}
