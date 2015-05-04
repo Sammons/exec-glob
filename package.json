@@ -1,6 +1,6 @@
 {
   "name": "exec-glob",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "CL Utility to execute command against glob",
   "main": "bin/cmd.js",
   "scripts": {
