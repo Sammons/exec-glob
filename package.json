@@ -2,11 +2,13 @@
   "name": "exec-glob",
   "version": "1.0.0",
   "description": "CL Utility to execute command against glob",
-  "main": "index.js",
+  "main": "bin/cmd.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": "bin/cmd.js",
+  "bin": {
+    "exec-glob" : "bin/cmd.js"
+  },
   "author": "Ben Sammons",
   "license": "MIT",
   "dependencies": {
