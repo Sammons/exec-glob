@@ -10,5 +10,19 @@
   "license": "MIT",
   "dependencies": {
     "glob": "^5.0.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sammons/exec-glob.git"
+  },
+  "keywords": [
+    "exec",
+    "npm",
+    "glob"
+  ],
+  "bugs": {
+    "url": "https://github.com/Sammons/exec-glob/issues"
+  },
+  "homepage": "https://github.com/Sammons/exec-glob"
 }
